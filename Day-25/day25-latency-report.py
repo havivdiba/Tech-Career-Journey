@@ -134,7 +134,7 @@ def saving_report_data(report_data, filename):
 
 def display_results(threshold, count, average, router_to_investigate, percentage):
 
-    print(f'The threshold entered is : {threshold}')
+    print(f'The threshold entered is : {threshold} ms')
     print(f'The total routers available is : {count}')
     print(f'The average latency value is : {average:.2f}')
 
