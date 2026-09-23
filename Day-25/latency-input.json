@@ -1,0 +1,6 @@
+[
+    {"name": "router-a", "latency_ms": 20},
+    {"name": "router-b", "latency_ms": 100},
+    {"name": "router-c", "latency_ms": 80},
+    {"name": "router-d", "latency_ms": 10}
+]
