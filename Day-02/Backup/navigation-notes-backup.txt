@@ -1,0 +1,10 @@
+Day 2 - File-System Navigation
+
+Absolute path: The complete location beginning with a drive, such as C:\.
+Relative path: A location described from the current working directory.
+
+pwd = show the current directory
+cd = change directory
+mkdir = create a directory
+dir = list the contents of a directory
+cd .. = move to the parent directory
