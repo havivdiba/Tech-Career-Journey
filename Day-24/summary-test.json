@@ -1,0 +1,6 @@
+[
+    {"name": "site-01", "download_mbps": 40},
+    {"name": "site-02", "download_mbps": 12},
+    {"name": "site-03", "download_mbps": 65},
+    {"name": "site-04", "download_mbps": 12}
+]

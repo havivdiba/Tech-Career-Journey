@@ -1,0 +1,10 @@
+[
+    {
+        "name": "site-01",
+        "download_mbps": 45
+    },
+    {
+        "name": "site-02",
+        "download_mbps": 38
+    }
+]
