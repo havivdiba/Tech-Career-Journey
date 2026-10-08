@@ -1,1 +1,1 @@
-CPU threshold = 85
+CPU threshold = 90
