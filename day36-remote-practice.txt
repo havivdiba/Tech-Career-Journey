@@ -1,2 +1,3 @@
 This file was created locally before pushing to GitHub.
 This second line was added directly on GitHub
+This third line will be retrieved using git pull
