@@ -1,0 +1,2 @@
+This file was create on my laptop
+It represents the local side of a divergent Git history
