@@ -12,9 +12,15 @@ def classify_rsrp(rsrp):
 
 def main ():
 
-    rsrp = float(input("Please enter any RSRP Value in dB : "))
-    results = classify_rsrp(rsrp)
+    try:
+        rsrp = float(input("Please enter any RSRP Value in dB : "))
+        results = classify_rsrp(rsrp)
+        print(results)
 
-    print(results)
+    except ValueError:
+        print("Invalid RSRP input")
+
+
+
 
 main()
